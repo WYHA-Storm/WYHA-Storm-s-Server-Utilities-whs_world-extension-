@@ -1,0 +1,18 @@
+{
+  "type": "wyhaworld:lagmorphia",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "wyhaworld:lagmorphian_plains",
+      "lakes": false,
+      "features": true,
+      "layers": [
+        {
+          "block": "minecraft:air",
+          "height": 1
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}

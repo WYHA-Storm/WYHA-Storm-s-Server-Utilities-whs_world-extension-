@@ -1,0 +1,3 @@
+say reloaded!
+
+gamerule commandModificationBlockLimit 99999
